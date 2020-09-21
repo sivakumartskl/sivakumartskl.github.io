@@ -42,7 +42,6 @@ body {
     cursor: pointer;
 }
 .container > nav > ul > li.highlight {
-    padding-left: 1.5rem;
     box-shadow: inset 0px 10px 50px 0px #16eccf;
 }
 .container > nav > ul > li > i {
